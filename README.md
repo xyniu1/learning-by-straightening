@@ -1,2 +1,2 @@
-# learning-by-straightening
-Learning predictable and robust neural representations by straightening image sequences
+# Learning predictable and robust neural representations by straightening image sequences
+Code to be released.
